@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5001/api';
+const API_URL = 'https://uiux-portfolio-x61q.onrender.com/';
 
 export const fetchProfile = async () => {
     try {
